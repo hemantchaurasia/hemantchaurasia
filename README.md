@@ -1,7 +1,7 @@
 ### Hemant Kumar Chaurasia
 AWS Certified Solution Architect with 18 years of software development experience using the Java/Spring/Spring Boot/J2EE and advanced JavaScripts (ReactJS, NodeJS). Design experience, Middleware APIs, Microservices, Web UI. System Designing & Integration.
 
-- Fullstack developer using advance JavaScript ReactJS, NodeJS (ES6/7)  and Java/Spring Boot.
+- Fullstack developer Java/Spring Boot and advance JavaScript ReactJS, NodeJS (ES6/7).
 - Experienced on Java v8+ and Spring/Spring Boot framework: using Spring Core, Spring AOP, Spring MVC, Spring Batch, Spring JPA, Spring cloud and Spring Security.
 - Experience Developing & Deploying SPA (Single Page Application) using ReactJS, Redux, NodeJS, Express, Python & AWS Cloud
 - Experience Developing Serverless Applications using the AWS SAM (Serverless Application Model) and implementing the Event-Driven Architecture.
@@ -10,10 +10,8 @@ AWS Certified Solution Architect with 18 years of software development experienc
 - Experience IAAS (Infrastracture code) using the Terraform and Cloud Formation Templates (CFTs).
 - Application Security and Cloud Security: experience with Barracuda WAF, SHAPE DDoS protection tool, SCA, SAST, DAST, IAST, Threat Modelling and OWASP top 10 vulnerabilities and PEN testing.
 
-
 ### Tech Stack
 ReactJS | Java | AWS Cloud
-
 
 <!--
 Here are some ideas to get you started:
