@@ -11,7 +11,7 @@ AWS Certified Solution Architect with 18 years of software development experienc
 - Application Security and Cloud Security: experience with Barracuda WAF, SHAPE DDoS protection tool, SCA, SAST, DAST, IAST, Threat Modelling, OWASP top 10 vulnerabilities and PEN testing.
 
 ### Tech Stack
-| ReactJS | Java | AWS Cloud
+|Java | Spring | ReactJS | NodeJs | AWS Cloud | Azure Cloud
 
 <!--
 Here are some ideas to get you started:
