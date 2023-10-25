@@ -2,7 +2,7 @@
 AWS Certified Solution Architect with 18 years of software development experience using Java/Spring/Spring Boot/J2EE and advanced JavaScripts (ReactJS, NodeJS). Design experience, Middleware APIs, Microservices, Web UI. System Designing & Integration.
 
 - Fullstack developer Java/Spring Boot and advanced JavaScript ReactJS, NodeJS (ES6/7).
-- Experienced on Java v8+ and Spring/Spring Boot framework: using Spring Core, Spring AOP, Spring MVC, Spring Batch, Spring JPA, Spring cloud and Spring Security.
+- Experienced on Java v8+ and Spring/Spring Boot framework: using Spring Core, Spring AOP, Spring MVC, Spring Batch, Spring JPA, Spring Cloud, and Spring Security.
 - Experience Developing and deploying SPA (Single Page Application) using ReactJS, Redux, NodeJS, Express, Python & AWS Cloud
 - Experience Developing Serverless Applications using the AWS SAM (Serverless Application Model) and implementing the Event-Driven Architecture.
 - AWS Cloud Experience: Design/develop/deploying dynamically scalable, fault-tolerant, and reliable applications on AWS Cloud
